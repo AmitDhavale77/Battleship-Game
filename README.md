@@ -1,4 +1,4 @@
-# COMP70053 - Python Programming - CW 3 - Battleship Game
+# Battleship Game
 
 ## Project Structure
 
@@ -55,7 +55,3 @@ Allows you to run a simulation of a battleship game.
 Running `python3 main.py` or `python3 main.py 0` will give you a manual game between two humans.
 
 Running `python3 main.py 1` will give you a manual game between a human and a `RandomPlayer`.
-
-etc.
-
-See the file for more information about the type of games you can run. You may freely edit this file - it will not be assessed.
